@@ -1,0 +1,34 @@
+_repo: Reminiscences-of-Charles-Bradlaugh_30205
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Foote, G. W. (George William)
+    alias: Foote, George William
+    birthdate: 1850
+    deathdate: 1915
+    gutenberg_agent_id: '2333'
+    url: http://www.gutenberg.org/2009/agents/2333
+    wikipedia: http://en.wikipedia.org/wiki/George_William_Foote
+description: ''
+gutenberg_issued: '2009-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30205'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Free thought'
+- !lcsh 'Freethinker'
+- !lcsh 'Bradlaugh, Charles, 1833-1891'
+- !lcsh 'Foote, G. W. (George William), 1850-1915'
+- !lcsh 'Trials (Blasphemy) -- Great Britain'
+- !lcc 'DA'
+- !lcsh 'Sedition -- Great Britain'
+- !lcsh 'Blasphemy -- Great Britain'
+title: Reminiscences of Charles Bradlaugh
+url: http://www.gutenberg.org/ebooks/30205
